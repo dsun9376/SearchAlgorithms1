@@ -35,7 +35,7 @@ public class SearchAlgorithms {
 	{
 		
 		int l=0;
-		int r=number.length-1;
+		int r=number.length-1; 
 		while(l<=r)
 		{
 			int mid = l+(r-l)/2;
